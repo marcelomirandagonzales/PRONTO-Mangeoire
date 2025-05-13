@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	15000	Eurasian Blackbird	eurbla	0.5016	/Users/marcelomiranda/Documents/IMT-L1/PRONTO/Received_recordings/record_20250506_141000.flac	0
+2	Spectrogram 1	1	0	3.0	0	15000	Mistle Thrush	misthr1	0.1519	/Users/marcelomiranda/Documents/IMT-L1/PRONTO/Received_recordings/record_20250506_141000.flac	0
+3	Spectrogram 1	1	6.0	9.0	0	15000	Red-capped Robin-Chat	rcrcha1	0.1479	/Users/marcelomiranda/Documents/IMT-L1/PRONTO/Received_recordings/record_20250506_141000.flac	6.0
+4	Spectrogram 1	1	6.0	9.0	0	15000	Chorister Robin-Chat	chrcha1	0.1350	/Users/marcelomiranda/Documents/IMT-L1/PRONTO/Received_recordings/record_20250506_141000.flac	6.0
+5	Spectrogram 1	1	6.0	9.0	0	15000	Eurasian Blackbird	eurbla	0.1023	/Users/marcelomiranda/Documents/IMT-L1/PRONTO/Received_recordings/record_20250506_141000.flac	6.0
