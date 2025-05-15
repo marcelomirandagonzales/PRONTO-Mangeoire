@@ -156,7 +156,7 @@ with sd.InputStream(samplerate=RATE, channels=1, callback=audio_callback, blocks
             distance = distancet / 2
 
             print ("Distance :", distance)
-            if distance <= 5 and k==0 :
+            if distance <= 15 and k==0 :
                 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
                 file_path = f"/home/Pronto/Photos/captured_{timestamp}.jpg"
                 call(["libcamera-jpeg","--width", "1280","--height","720","-o",file_path])
