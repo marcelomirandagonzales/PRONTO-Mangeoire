@@ -44,11 +44,11 @@ def process_new_files():
                 print(f"Processed {file}: {result.stdout}")
 
 
-            # Mark as processed
-            save_processed_file(file)
+
+
 
 # Example: Run processing after every sync
 while True:
     print("Checking for new files...")
     process_new_files()
-    time.sleep(20)  # every 5 mins
+    time.sleep(300)  # every 5 mins
